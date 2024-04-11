@@ -4,4 +4,4 @@ menu:
 1)The whopping Burger
 2)The Smashing Burger
 3)The forgiving Burger
-4)The vegan Burgergit
+4)The vegan Burger
